@@ -1,0 +1,12 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    /* ommverflow: hidden; */
+}
+body{
+    color: lawngreen;
+}
+.underHeadingDivone{
+    display: flex;
+    margin-left: 450px;
+}

@@ -1,0 +1,33 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.backgroundbody{
+    background-image: url(imgs/th\ \(3\).jpg);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    color: gold;
+    text-shadow: 3px 3px 5px black;
+}
+.insideBackgroundDiv{
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    background: pink;
+    width: 30px;
+    border: 2px solid black;
+    padding: 2px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.readingPart{
+    margin:auto ;
+}
+.underHeadingDivone{
+    display: flex;
+    margin-left: 450px;
+}
